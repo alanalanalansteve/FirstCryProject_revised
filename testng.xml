@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="FirstCryTestSuite">
+	
+	<test name="ContactPageTest">
+		<classes>
+			<class name="com.test.scripts.ContactPageTest" />
+		</classes><!--
+	ContactPageTest -->
+	</test>
+	
+	<test name="SearchTest">
+		<classes>
+			<class name="com.test.scripts.SearchTest" />
+		</classes>
+		<!--
+	SearchTest -->
+	</test>
+	
+	<test name="StoreLocatorPageTest">
+		<classes>
+			<class name="com.test.scripts.StoresButtonTest" />
+		</classes>
+		<!--
+	StoreLocatorPageTest -->
+	</test>
+
+</suite> <!--
+FirstCryTestSuite -->

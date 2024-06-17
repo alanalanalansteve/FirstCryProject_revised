@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-17T12:02:41 EDT" name="FirstCryTestSuite" finished-at="2024-06-17T12:03:08 EDT" duration-ms="27517">
+    <groups>
+    </groups>
+    <test started-at="2024-06-17T12:02:41 EDT" name="ContactPageTest" finished-at="2024-06-17T12:02:55 EDT" duration-ms="14229">
+      <class name="com.test.scripts.ContactPageTest">
+        <test-method is-config="true" signature="SetExtentReport()[pri:0, instance:com.test.scripts.ContactPageTest@4803b726]" started-at="2024-06-17T12:02:41 EDT" name="SetExtentReport" finished-at="2024-06-17T12:02:41 EDT" duration-ms="76" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetExtentReport -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.ContactPageTest@4803b726]" started-at="2024-06-17T12:02:41 EDT" name="setUp" finished-at="2024-06-17T12:02:46 EDT" duration-ms="5371" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.scripts.ContactPageTest.contactUsClickTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="contactUsClickTest(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.ContactPageTest@4803b726]" started-at="2024-06-17T12:02:46 EDT" name="contactUsClickTest" finished-at="2024-06-17T12:02:55 EDT" duration-ms="8178" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.scripts.ContactPageTest.contactUsClickTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUsClickTest -->
+        <test-method is-config="true" signature="getstatus(org.testng.ITestResult)[pri:0, instance:com.test.scripts.ContactPageTest@4803b726]" started-at="2024-06-17T12:02:55 EDT" name="getstatus" finished-at="2024-06-17T12:02:55 EDT" duration-ms="589" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=contactUsClickTest status=SUCCESS method=ContactPageTest.contactUsClickTest(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.ContactPageTest@4803b726] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getstatus -->
+      </class> <!-- com.test.scripts.ContactPageTest -->
+    </test> <!-- ContactPageTest -->
+    <test started-at="2024-06-17T12:02:55 EDT" name="SearchTest" finished-at="2024-06-17T12:03:03 EDT" duration-ms="8067">
+      <class name="com.test.scripts.SearchTest">
+        <test-method is-config="true" signature="SetExtentReport()[pri:0, instance:com.test.scripts.SearchTest@242b836]" started-at="2024-06-17T12:02:55 EDT" name="SetExtentReport" finished-at="2024-06-17T12:02:55 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetExtentReport -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.SearchTest@242b836]" started-at="2024-06-17T12:02:55 EDT" name="setUp" finished-at="2024-06-17T12:02:59 EDT" duration-ms="4156" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.scripts.SearchTest.searchForAnythingTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForAnythingTest(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.SearchTest@242b836]" started-at="2024-06-17T12:02:59 EDT" name="searchForAnythingTest" finished-at="2024-06-17T12:03:03 EDT" duration-ms="3500" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.scripts.SearchTest.searchForAnythingTest(java.lang.reflect.Method)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForAnythingTest -->
+        <test-method is-config="true" signature="getstatus(org.testng.ITestResult)[pri:0, instance:com.test.scripts.SearchTest@242b836]" started-at="2024-06-17T12:03:03 EDT" name="getstatus" finished-at="2024-06-17T12:03:03 EDT" duration-ms="409" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchForAnythingTest status=SUCCESS method=SearchTest.searchForAnythingTest(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.SearchTest@242b836] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getstatus -->
+      </class> <!-- com.test.scripts.SearchTest -->
+    </test> <!-- SearchTest -->
+    <test started-at="2024-06-17T12:03:03 EDT" name="StoreLocatorPageTest" finished-at="2024-06-17T12:03:08 EDT" duration-ms="5208">
+      <class name="com.test.scripts.StoresButtonTest">
+        <test-method is-config="true" signature="SetExtentReport()[pri:0, instance:com.test.scripts.StoresButtonTest@4f80542f]" started-at="2024-06-17T12:03:03 EDT" name="SetExtentReport" finished-at="2024-06-17T12:03:03 EDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetExtentReport -->
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.StoresButtonTest@4f80542f]" started-at="2024-06-17T12:03:03 EDT" name="setUp" finished-at="2024-06-17T12:03:07 EDT" duration-ms="4047" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.scripts.StoresButtonTest.storesButtonClickTest(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="storesButtonClickTest(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.StoresButtonTest@4f80542f]" started-at="2024-06-17T12:03:07 EDT" name="storesButtonClickTest" finished-at="2024-06-17T12:03:08 EDT" duration-ms="747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.test.scripts.StoresButtonTest.storesButtonClickTest(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storesButtonClickTest -->
+        <test-method is-config="true" signature="getstatus(org.testng.ITestResult)[pri:0, instance:com.test.scripts.StoresButtonTest@4f80542f]" started-at="2024-06-17T12:03:08 EDT" name="getstatus" finished-at="2024-06-17T12:03:08 EDT" duration-ms="413" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=storesButtonClickTest status=SUCCESS method=StoresButtonTest.storesButtonClickTest(java.lang.reflect.Method)[pri:0, instance:com.test.scripts.StoresButtonTest@4f80542f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getstatus -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.test.scripts.StoresButtonTest@4f80542f]" started-at="2024-06-17T12:03:08 EDT" name="tearDown" finished-at="2024-06-17T12:03:08 EDT" duration-ms="95" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.test.scripts.StoresButtonTest -->
+    </test> <!-- StoreLocatorPageTest -->
+  </suite> <!-- FirstCryTestSuite -->
+</testng-results>
