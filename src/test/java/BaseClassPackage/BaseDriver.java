@@ -76,7 +76,7 @@ public class BaseDriver {
 		srp = new SearchResultsPage(driver);
 		cup = new ContactUsPage(driver);
 		
-//		test = extent.createTest(method.getName());
+		test = extent.createTest(method.getName());
 
 	}
 

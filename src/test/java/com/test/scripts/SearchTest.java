@@ -10,7 +10,7 @@ public class SearchTest extends BaseDriver {
 	@Test
 	public void searchForAnythingTest(Method method) {
 
-		test = extent.createTest(method.getName());
+//		test = extent.createTest(method.getName());
 
 		lp.enterSearchKey("diaper");
 		lp.searchBTNClick();
