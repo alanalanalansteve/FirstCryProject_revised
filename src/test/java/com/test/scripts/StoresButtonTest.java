@@ -9,8 +9,8 @@ import BaseClassPackage.BaseDriver;
 public class StoresButtonTest extends BaseDriver {
 	@Test
 	public void storesButtonClickTest(Method method) throws InterruptedException { 
-
-//		test = extent.createTest(method.getName());
+		
+		test = extent.createTest(method.getName());
 		
 		lp.hoverAndClickFindStores();
 		slp.checkStoreLocatorPageText();
